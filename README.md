@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/postgresql-AFEEEE?style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/clickhouse-AFEEEE?style=for-the-badge&logo=clickhouse&logoColor=black"/>
 <img src="https://img.shields.io/badge/tableau-AFEEEE?style=for-the-badge&logo=tableau&logoColor=black"/>
 <img src="https://img.shields.io/badge/git-AFEEEE?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/apacheairflow-AFEEEE?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
-<img src="https://img.shields.io/badge/microsoftexcel-AFEEEE?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
+<img src="https://img.shields.io/badge/airflow-AFEEEE?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/excel-AFEEEE?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
 
 Контакты:
 https://t.me/Svetlana803
